@@ -1,4 +1,6 @@
 wmvl Resolusi 
 - belajar bahasa pemprogaman 
 - membuat web dan hoisting 
-- konsisten membuat konten 2x seminggu 
+- konsisten membuat konten 2x seminggu
+- membuat situs anime 
+- kolaborasi dengan expert
