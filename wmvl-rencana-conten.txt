@@ -3,7 +3,10 @@ Rencana Conten WMVL
  - javascript
    * ES6 
    * fremeworks
+   ^ vue 
  - struktur data dasar 
  - php frameworks 
+  ^ laravel
  - interview 
  - vlogs 
+ - python
