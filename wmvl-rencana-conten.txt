@@ -4,6 +4,7 @@ Rencana Conten WMVL
    * ES6 
    * fremeworks
    ^ vue 
+   ^ react 
  - struktur data dasar 
  - php frameworks 
   ^ laravel  
