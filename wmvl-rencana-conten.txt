@@ -6,7 +6,7 @@ Rencana Conten WMVL
    ^ vue 
  - struktur data dasar 
  - php frameworks 
-  ^ laravel
+  ^ laravel  
  - interview 
  - vlogs 
  - python
