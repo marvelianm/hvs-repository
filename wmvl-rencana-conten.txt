@@ -4,10 +4,11 @@ Rencana Conten WMVL
    * ES6 
    * fremeworks
     ^ Angular 
-    ^ React 
+    ^ vue 
+    ^ react 
  - struktur data dasar 
- - php frameworks
-   ^ laravel 
+ - php frameworks 
+    ^ laravel 
  - interview 
  - vlogs 
  - python
