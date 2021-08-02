@@ -10,3 +10,4 @@ Rencana Conten WMVL
    ^ laravel 
  - interview 
  - vlogs 
+ - python
