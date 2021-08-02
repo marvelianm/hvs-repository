@@ -3,7 +3,10 @@ Rencana Conten WMVL
  - javascript
    * ES6 
    * fremeworks
+    ^ Angular 
+    ^ React 
  - struktur data dasar 
- - php frameworks 
+ - php frameworks
+   ^ laravel 
  - interview 
  - vlogs 
