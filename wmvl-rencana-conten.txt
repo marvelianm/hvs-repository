@@ -1,6 +1,8 @@
 Rencana Conten WMVL
 
- - javascript 
- - php framewroks 
+ - javascript
+   * ES6 
+   * fremeworks
+ - php frameworks 
  - interview 
  - vlogs 
